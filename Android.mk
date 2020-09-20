@@ -40,8 +40,6 @@ LOCAL_SHARED_LIBRARIES := \
     libdl \
     libbase \
     libhidlbase \
-    libhidltransport \
-    libhwbinder \
     libutils \
     android.hardware.power@1.2 \
     vendor.lineage.power@1.0
